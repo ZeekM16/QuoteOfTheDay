@@ -1,7 +1,7 @@
 var arrayOfQuotes = [
     {
         'author': 'Virginia Satir',
-        'quote': 'We must not allow other people’s limited perceptions to define us.'
+        'quote': 'We must not allow other peoples limited perceptions to define us.'
 
     },
     {
@@ -14,7 +14,7 @@ var arrayOfQuotes = [
     },
     {
         'author': 'William Shakespeare',
-        'quote': 'This above all: to thine own self be true.'
+        'quote': 'This above all, to thine own self be true.'
     },
     {
         'author': 'Napoleon Hill',
@@ -22,7 +22,7 @@ var arrayOfQuotes = [
     },
     {
         'author': 'Milton Berle',
-        'quote': 'If opportunity doesn’t knock, build a door.'
+        'quote': 'If opportunity doesnt knock, build a door.'
     },
     {
         'author': 'John Wooden',
@@ -42,7 +42,7 @@ var arrayOfQuotes = [
     },
     {
         'author': 'Rabbi Hillel',
-        'quote': 'If I am not for myself, who is for me? And if I am only for myself, what am I? And if not now, when?'
+        'quote': 'If I am not for myself, who is for me. And if I am only for myself, what am I. And if not now, when.'
     },
     {
         'author': 'Theodore Roosevelt',

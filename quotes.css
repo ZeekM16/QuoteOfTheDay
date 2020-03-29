@@ -4,8 +4,11 @@ div {
 
 h1 {
     font-size: 80px;
-    font-family: Arial, Helvetica, sans-serif;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
 
+}
+body{
+    background-image: url('https://adfiresprinklers.com/wp-content/uploads/2017/03/orange-background.jpg');
 }
 
 button {
@@ -17,6 +20,7 @@ button {
 
 p{
     font-size: 35px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 
 button:hover {
