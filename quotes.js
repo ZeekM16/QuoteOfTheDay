@@ -46,7 +46,7 @@ var arrayOfQuotes = [
     },
     {
         'author': 'Theodore Roosevelt',
-        'quote': 'Believe you can and you’re halfway there.'
+        'quote': 'Believe you can and youre halfway there.'
     }
 ]
 
